@@ -54,6 +54,7 @@ color: #f95031;
 
 body{
     background-color: #eff0f5;
+    padding-bottom: 200px;
 }
 
 .container{
@@ -83,22 +84,17 @@ body{
     height: 200px;
 }
 
-.fruits{
+.product-1{
     display: flex;
     flex-direction: column;
 }
 
-.plant{
+.product-2{
     display: flex;
     flex-direction: column;
 }
 
-.cars{
-    display: flex;
-    flex-direction: column;
-}
-
-.black{
+.product-3{
     display: flex;
     flex-direction: column;
 }
