@@ -28,7 +28,7 @@
     color: #f95031;
 }
 
-.navy{
+.navigation{
     display: flex;
     flex-wrap: wrap;
 }
@@ -129,7 +129,7 @@ body{
     flex-direction: column;
     }
     
-    .navy{
+    .navigation{
         padding-bottom: 1.5rem;
     }
     
